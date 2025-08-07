@@ -98,5 +98,5 @@ website problems.
     - their Lab X site was built using Quarto, and
     - their Lab X site clearly includes [the five key elements listed above](#the-five-key-elements), and
     - their Lab X site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
-- Students will receive a maximum of 22.5/25 points if their site was built using something other than Quarto, but otherwise meets these standards.
+- Students will receive a maximum of 22/25 points if their site was built using something other than Quarto, but otherwise meets these standards.
 
