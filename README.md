@@ -4,7 +4,7 @@ Lab information for 431 in Fall 2025
 
 ## Deadlines
 
-All deadlines for all Labs are maintained in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html). There are seven labs (including Lab X, which can be done at any time before its deadline in early December) planned for this term.
+All deadlines for all Labs are maintained in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html). There are seven labs (including Lab X, which you can start just after Lab 1) planned for this term.
 
 <div align="center">
 
