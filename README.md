@@ -39,7 +39,10 @@ See [here](tips.md) for some tips to remember before submitting your Lab work.
 
 ## Getting Help During The Lab
 
-You are welcome to discuss each Lab with Professor Love, the teaching assistants or your colleagues, but your answer must be prepared by you alone. Don't be afraid to ask questions, using any of the methods described on our [Contact Us](https://thomaselove.github.io/431-2025/contact.html) page.
+You are welcome to discuss each Lab with Professor Love, the teaching assistants or your colleagues, but your answer must be prepared by you alone. 
+
+- Don't be afraid to ask questions, using any of the methods described on our [Contact Us](https://thomaselove.github.io/431-2025/contact.html) page.
+- If you decide to get help from a large language model (like ChatGPT) to help with your phrasing of ideas, or building code, OK, but you need to mention that in a designated section (just before the Session Information) in your submission.
 
 ## Submitting Your Work
 
