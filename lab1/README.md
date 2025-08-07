@@ -11,6 +11,10 @@
 
 Here is a [PDF of the Lab 1 instructions](431-lab1.pdf).
 
+## Tips for Lab Work
+
+See [here](https://github.com/THOMASELOVE/431-labs-2025/blob/main/tips.md) for some general tips to remember in doing your Lab work.
+
 ## Please note
 
 - All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data).
