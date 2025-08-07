@@ -6,20 +6,6 @@ Lab information for 431 in Fall 2025
 
 All deadlines for all Labs are maintained in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
 
-## Welcome to 431 Survey
-
-Complete the [Welcome to 431 survey](https://bit.ly/431-2025-welcome) through Google Forms at CWRU. You must log into Google via CWRU in order to access the Survey. The link is also found on the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
-
-## Instructions and Materials for Lab X
-
-Visit [Lab X Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/)
-
-## Instructions and Materials for Labs 1-6
-
-- There are six numbered Labs this semester.
-- All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data) or via the links provided below.
-- All Lab deadlines are provided in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
-
 <div align="center">
 
 Lab Instructions and Additional Materials
@@ -30,8 +16,11 @@ Lab Instructions and Additional Materials
 [Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab4/)
 [Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab5/)
 [Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/)
+[Lab X Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/)
 
 </div>
+
+- All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data) or via the links provided above.
 
 ## Tips for Lab Work
 
@@ -55,7 +44,7 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
  
 ## Answer Sketches and Grading Rubrics
 
-As each Lab passes its deadline (as listed in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html)), we will:
+As Labs 1-6 pass their deadlines (listed in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html)), we will:
 
 - post the answer sketch (48 hours after the deadline) to our Shared Google Drive, and then
 - post grades and any additional information about grading rubrics one week after the deadline to a location we will provide to you.
