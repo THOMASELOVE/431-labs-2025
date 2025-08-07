@@ -18,6 +18,7 @@
 13. Hit ENTER after every pipe and + in your code so that you avoid scrollable windows for code in your HTML output.
 14. Use the tidyverse to manage data, whenever possible.
 15. Hit F7 to use spell-check in RStudio on your Quarto file. It's not perfect, especially with headers, but at least it might help.
-16. Ensure that the session information is available as a section in the Table of Contents.
+16. If you decide to get help from a large language model (like ChatGPT) to help with your phrasing of ideas, or building code, OK, but you need to mention that in a designated section (just before the Session Information) in your submission.
+17. Ensure that the session information is available as a section in the Table of Contents.
 
 Be sure to again carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
