@@ -4,11 +4,11 @@ Lab information for 431 in Fall 2025
 
 ## Deadlines
 
-All deadlines for all Labs are maintained in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+All deadlines for all Labs are maintained in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html). There are seven labs (including Lab X, which can be done at any time before its deadline in early December) planned for this term.
 
 <div align="center">
 
-Lab Instructions and Additional Materials
+Lab Instructions and Materials
 | :--------------------------------------------: |
 [Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/)
 [Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab2/)
