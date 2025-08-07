@@ -2,7 +2,7 @@
 
 1. Be sure you carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
 2. Use the templates provided by Dr. Love when you can.
-3. Use the [version of R that Dr. Love recommends](https://thomaselove.github.io/431-2025/software.html). At the moment, that's R version 4.4.1.
+3. Use the [version of R that Dr. Love recommends](https://thomaselove.github.io/431-2025/software.html). 
 4. [Update your R packages](https://thomaselove.github.io/431-2025/software.html#updating-your-r-packages).
 5. Make sure your YAML has an appropriate title (431 Lab 1 is fine for Lab 1) and author setup, so that this prints nicely in the HTML.
 6. Do not load in individual packages from the tidyverse that are in the core tidyverse (auto-loaded when you load the tidyverse). The list of core packages is [available here](https://www.tidyverse.org/packages/#core-tidyverse). It includes dplyr, ggplot2, forcats and several others.
