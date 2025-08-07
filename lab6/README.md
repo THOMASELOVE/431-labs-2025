@@ -2,7 +2,7 @@
 
 ## Prior to attempting Lab 6, we assume ...
 
-- You've attended and reviewed the materials discussed in 431 Classes 1-22, 
+- You've attended and reviewed the materials discussed in 431 Classes 1-21, 
 - You've worked through Chapters 1-21 of [Dr. Love's 431 text](https://thomaselove.github.io/431-book/),
 - You've read the introduction and chapters 1-5 and 7-13 of David Spiegelhalter's *The Art of Statistics*,
 - You've read the introduction and chapters 1-11, 16 and 28 of [R for Data Science](https://r4ds.hadley.nz/).
