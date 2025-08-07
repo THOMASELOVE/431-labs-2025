@@ -10,12 +10,12 @@ All deadlines for all Labs are maintained in the [Course Calendar](https://thoma
 
 Lab Instructions and Materials | Deadline
 | :--------------------------------------------: | :-----------------:
-[Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): mid-September
-[Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab2/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): late September
-[Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab3/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): early October
-[Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab4/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): mid-October
-[Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab5/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): early November
-[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): mid-November
+[Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab1/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): mid-September
+[Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab2/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): late September
+[Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab3/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): early October
+[Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab4/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): mid-October
+[Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab5/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): early November
+[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab6/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): mid-November
 [Lab X Materials](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/) | See [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html): early December
 
 </div>
