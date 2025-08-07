@@ -7,58 +7,38 @@
 
 # What is this?
 
-Lab X requires you to build a professional website, or augment your
-current one, if you already have one.
+Lab X requires you to build a professional website, or augment your current one, if you already have one.
 
-This is, we hope, a worthwhile opportunity for you to build your own
-professional website. Not only will this give you some additional
-practice coding and using R and R-adjacent tools like Quarto, it’s a
-low-cost and potentially high-yield method to establish your
-professional presence online.
+This is, we hope, a worthwhile opportunity for you to build your own professional website. Not only will this give you some additional practice coding and using R and R-adjacent tools like Quarto, it’s a low-cost and potentially high-yield method to establish your professional presence online. We also want to see if you can figure some things out on your own, of course.
 
-To complete Lab X successfully, you must submit a permanent URL from
-which Dr. Love has to be able to open your website and read its
-contents.
+To complete Lab X successfully, you must submit a permanent URL from which Dr. Love has to be able to open your website and read its contents.
 
-Note that should you want Dr. Love to write a letter of recommendation
-for you in the future, he will be **much more willing** to do this if
+Note that should you want Dr. Love to write a letter of recommendation for you in the future, he will be **much more willing** to do this if
 you have an active website.
 
 # Submitting your Website
 
-Submit a link to your website to Dr. Love in an email with the subject
-line **My Website** by the deadline specified in [the Course
-Calendar](https://thomaselove.github.io/431-2025/calendar.html). In the
-body of your email, briefly tell me how you created the site (Quarto, or
-something else.)
+Submit a link to your website to Dr. Love in an email with the subject line **My Website** by the deadline (it's after the Thanksgiving Break) specified in [the Course Calendar](https://thomaselove.github.io/431-2025/calendar.html). In the body of your email, briefly tell me how you created the site (Quarto, or something else.)
 
 # Instructions and Guidance
 
-We want you to build a professional looking website that will be useful
-to you. The content is (mostly) up to you, but it’s worth considering
-using this opportunity to craft your online presence.
+We want you to build a professional looking website that will be useful to you. The content is (mostly) up to you, but it’s worth considering using this opportunity to craft your online presence.
 
 ## The Five Key Elements
 
-Dr. Love will be happy if your site clearly includes at least the
-following five elements:
+Dr. Love will be happy if your site clearly includes at least the following five elements:
 
-1.  A front page including a photo of you or of something relevant to
-    you.
-2.  Links to your social media presence, if any, and a way for people to
-    get in touch with you via email.
-3.  An About Me or Welcome section on your front page, which briefly
-    describes what you’re doing now.
+1.  A front page including a photo of you or of something relevant to you.
+2.  Links to your social media presence, if any, and a way for people to get in touch with you via email.
+3.  An About Me or Welcome section on your front page, which briefly describes what you’re doing now.
 4.  Some information on your Education, Experiences, and/or Projects
 5.  A way to download your CV
 
-A blog is also an appealing way to connect your thoughts with the world,
-and including non-professional stuff is OK, too, of course.
+A blog is also an appealing way to connect your thoughts with the world, and including non-professional stuff is OK, too, of course.
 
 # Using Quarto to Build the Site
 
-Here are some resources that we think might be useful to you. If you
-find others that are helpful, please share them with us.
+Here are some resources that we think might be useful to you. If you find others that are helpful or find any dead links here, please share them with us.
 
 - Marvin Schmitt provides a full tutorial and template at [Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/).
   The template [shown here](https://marvinschmitt.github.io/quarto-website-template/), for example, gives you a great example of what I’m looking for. This is
