@@ -48,7 +48,6 @@ Here are some resources that we think might be useful to you. If you find others
 - Sam Csik has useful thoughts on [Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/)
 - We found Drew Dimmery’s [Quarto for an Academic Website](https://ddimmery.com/posts/quarto-website/) interesting and
   useful.
-- [Chi Zhang’s site](https://andreaczhang.github.io/qtwAcademic/articles/template_personal.html) provides a nice template for a personal site.
 - Beatriz Milz’ [Creating a blog with Quarto in 10 Steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
 - Albert Rapp’s [The Ultimate Guide to Starting a Quarto Blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html)
 - CrumpLab gives us [Blogging with Quarto: A 10 minute getting started tutorial](https://www.youtube.com/watch?v=YoKjBcuUP0s) (about 10
