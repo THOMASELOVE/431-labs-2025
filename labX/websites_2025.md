@@ -1,0 +1,3 @@
+# Lab X Submissions approved by Dr. Love for Fall 2025
+
+- [Alex Bergendorf](https://abergend.github.io/bergendorf_website/)
