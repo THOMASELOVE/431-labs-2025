@@ -1,5 +1,9 @@
 # 431 Lab X Instructions
 
+## Completed Lab X submissions approved by Dr. Love
+
+[Here is a list of completed websites](websites_2025.md) for students in the Fall 2025 class.
+
 ## Prior to attempting Lab X, we assume …
 
 - You've completed Lab 1, and
