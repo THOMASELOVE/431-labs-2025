@@ -22,7 +22,7 @@ you have an active website.
 
 # Submitting your Website
 
-Submit a link to your website to Dr. Love in an email with the subject line **My Website** by the deadline (it's after the Thanksgiving Break) specified in [the Course Calendar](https://thomaselove.github.io/431-2025/calendar.html). In the body of your email, briefly tell me how you created the site (Quarto, or something else.)
+Submit a link to your website to Dr. Love in an email with the subject line **My Website** by the deadline (it's in early December) specified in [the Course Calendar](https://thomaselove.github.io/431-2025/calendar.html). In the body of your email, briefly tell me how you created the site (Quarto, or something else.)
 
 Once he's approved your site, Dr. Love will post it [here](websites_2025.md).
 
