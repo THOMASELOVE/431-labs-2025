@@ -9,7 +9,7 @@
 
 ## Instructions
 
-Here is a [PDF of the Lab 5 instructions](431-lab5.pdf).
+Here is a [PDF of the Lab 5 instructions](431-lab5.pdf). I tweaked these very slightly on 2025-10-25 to add a couple of necessary packages.
 
 ## Tips for Lab Work
 
