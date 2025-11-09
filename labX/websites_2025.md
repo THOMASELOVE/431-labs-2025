@@ -3,3 +3,4 @@
 - [Alex Bergendorf](https://abergend.github.io/bergendorf_website/)
 - [Fai Albainian](https://faalbuainain.github.io/website/)
 - [Lily Zhang](https://lilyzhang4499-cmd.github.io/)
+- [Noni Pinales](https://npinales.github.io/npinales/)
