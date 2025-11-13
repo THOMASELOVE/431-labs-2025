@@ -1,6 +1,7 @@
 # Lab X Submissions approved by Dr. Love for Fall 2025
 
 - [Alex Bergendorf](https://abergend.github.io/bergendorf_website/)
+- [Amjad Samara](https://amjadsamara.github.io/)
 - [Fai Albainian](https://faalbuainain.github.io/website/)
 - [Helena Zhou](https://hwz3-star.github.io/helena/)
 - [Lily Zhang](https://lilyzhang4499-cmd.github.io/)
