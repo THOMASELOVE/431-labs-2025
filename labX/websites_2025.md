@@ -9,5 +9,6 @@
 7. [Fangzhou (Eric) Liu](https://fzliu1997.github.io/)
 8. [Helena Zhao](https://hwz3-star.github.io/helena/)
 9. [Lily Zhang](https://lilyzhang4499-cmd.github.io/)
-10. [Noni Pinales](https://npinales.github.io/npinales/)
-11. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
+10. [Moses Fleischman](https://mosesfleischman.github.io/mosesfleischman/)
+11. [Noni Pinales](https://npinales.github.io/npinales/)
+12. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
