@@ -17,6 +17,7 @@
 15. [Noha Orabi](https://nohaorabi.github.io/nohaorabi.github.io-LabX/)
 16. [Noni Pinales](https://npinales.github.io/npinales/)
 17. [Pooja Madan Mohan](https://poojamadanmohan.github.io/)
-18. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
-19. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
+18. [Ruoying Chen](https://rychen2025.github.io/rychen/)
+19. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
+20. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
 
