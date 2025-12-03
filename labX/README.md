@@ -50,6 +50,7 @@ Here are some resources that we think might be useful to you. If you find others
 - [Advice on How to Publish Your Website on GitHub](labX_publishing_advice_for_github.pdf), by Nihit Mehta (2024 student in 431) (PDF)
 - Posit recently released a series of four YouTube videos on Quarto websites: [Build your homepage](https://www.youtube.com/watch?v=l7r24gTEkEY), [Add pages and navigation](https://www.youtube.com/watch?v=k65E-8PXZmA), [Styling with CSS/SCSS](https://www.youtube.com/watch?v=pAN2Hiq0XGs), and [Add lists of content with listing](https://www.youtube.com/watch?v=bv_Cw-3HI1Y&list=PL9HYL-VRX0oTCvag75m8yDjFoJvE-gMxp&index=4).
 - Quarto’s general guide to [Creating a Website](https://quarto.org/docs/websites/) may be helpful.
+- Here's a [video from The GRAPH Courses](https://www.youtube.com/watch?v=OlvO-EG-P60) on creating a personal website that some people found helpful.
 - The Quarto website shows you how to create a blog website within R Studio [in some detail here](https://quarto.org/docs/websites/website-blog.html).
 - Sam Csik has useful thoughts on [Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/)
 - We found Drew Dimmery’s [Quarto for an Academic Website](https://ddimmery.com/posts/quarto-website/) interesting and
