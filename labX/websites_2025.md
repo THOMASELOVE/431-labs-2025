@@ -23,6 +23,7 @@
 21. [Pooja Madan Mohan](https://poojamadanmohan.github.io/)
 22. [Ruoying Chen](https://rychen2025.github.io/rychen/)
 23. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
-24. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
-25. [Vennila Ramasubramanian](https://vennilaram4.github.io/vennilaram/)
+24. [Scout Osborne](https://scoutosborne.github.io/)
+25. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
+26. [Vennila Ramasubramanian](https://vennilaram4.github.io/vennilaram/)
 
