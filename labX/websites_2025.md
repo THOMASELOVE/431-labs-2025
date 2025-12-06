@@ -25,5 +25,6 @@
 23. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
 24. [Scout Osborne](https://scoutosborne.github.io/)
 25. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
-26. [Vennila Ramasubramanian](https://vennilaram4.github.io/vennilaram/)
+26. [Valerie Lam](https://valeriehlam.github.io/main/)
+27. [Vennila Ramasubramanian](https://vennilaram4.github.io/vennilaram/)
 
