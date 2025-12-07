@@ -24,7 +24,8 @@
 22. [Ruoying Chen](https://rychen2025.github.io/rychen/)
 23. [Sadia Ahmed](https://sadia187.github.io/sadia_ahmed/)
 24. [Scout Osborne](https://scoutosborne.github.io/)
-25. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
-26. [Valerie Lam](https://valeriehlam.github.io/main/)
-27. [Vennila Ramasubramanian](https://vennilaram4.github.io/vennilaram/)
+25. [Shufei Fang](https://fryevie.github.io/431labx/)
+26. [Subin Lee](https://sxl2536.github.io/subinlee.github.io/)
+27. [Valerie Lam](https://valeriehlam.github.io/main/)
+28. [Vennila Ramasubramanian](https://vennilaram4.github.io/vennilaram/)
 
