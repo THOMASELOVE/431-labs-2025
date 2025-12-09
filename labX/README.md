@@ -47,6 +47,7 @@ A blog is also an appealing way to connect your thoughts with the world, and inc
 Here are some resources that we think might be useful to you. If you find others that are helpful or find any dead links here, please share them with us.
 
 - Marvin Schmitt provides a full tutorial and template at [Create Your Website with Quarto](https://marvin-schmitt.com/blog/website-tutorial-quarto/). This is the most common tool people who’ve completed this have mentioned to me.
+- **NEW!!** [PDF on How to Publish your Quarto website on Github pages](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/HOW%20TO%20PUBLISH%20YOUR%20QUARTO%20WEBSITE%20ON%20GITHUB%20PAGES%20(Lab%20X%20Guide).pdf) by Renu Jadhav (2025 student in 431).
 - [Advice on How to Publish Your Website on GitHub](labX_publishing_advice_for_github.pdf), by Nihit Mehta (2024 student in 431) (PDF)
 - Posit recently released a series of four YouTube videos on Quarto websites: [Build your homepage](https://www.youtube.com/watch?v=l7r24gTEkEY), [Add pages and navigation](https://www.youtube.com/watch?v=k65E-8PXZmA), [Styling with CSS/SCSS](https://www.youtube.com/watch?v=pAN2Hiq0XGs), and [Add lists of content with listing](https://www.youtube.com/watch?v=bv_Cw-3HI1Y&list=PL9HYL-VRX0oTCvag75m8yDjFoJvE-gMxp&index=4).
 - Quarto’s general guide to [Creating a Website](https://quarto.org/docs/websites/) may be helpful.
